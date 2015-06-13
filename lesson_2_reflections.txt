@@ -1,3 +1,7 @@
 How is staging area different from the working directory and the repository? What value do you think it offers?
 
 	The staging area is like a temporary holder for the files to be put from the working directory to a new repository. It gives users a buffer zone to have more control over what to commit.
+
+What happens when you initialize a repository? Why do you need to do it?
+
+	It creates a new repository ready to be committed, but you will have to add files to the staging area first to commit the files in the staging area which will be put in the repository initialized.
